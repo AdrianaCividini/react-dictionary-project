@@ -1,4 +1,10 @@
 .Dictionary {
   text-align: center;
   font-size: 35px;
+  margin-bottom: 30px;
+}
+
+small {
+  font-size: 40px;
+  background-color: aqua;
 }

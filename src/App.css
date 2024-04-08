@@ -1,4 +1,9 @@
 .App-logo {
   max-width: 200px;
-  display: block;
+  margin: 20px;
+}
+
+.container {
+  margin: 30px;
+  text-align: center;
 }
