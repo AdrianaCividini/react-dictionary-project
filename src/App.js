@@ -17,6 +17,10 @@ function App() {
             <Dictionary defaultKeyword="beach" />
           </main>
         </header>
+        <footer className="informations">
+          This Dictionary Project was coded by <a href="/">Adriana Cividini</a>{" "}
+          and is hosted in <a href="/">HitHub.</a>
+        </footer>
       </div>
     </div>
   );

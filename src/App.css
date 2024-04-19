@@ -1,11 +1,25 @@
 body {
-  background-color: antiquewhite;
+  background-color: rgba(240, 230, 240);
+}
+.App {
+  max-width: 960px;
+  margin: 0 auto;
 }
 .App-logo {
-  max-width: 200px;
-  margin: 20px;
+  display: block;
+  margin: 0 auto;
+  max-width: 100px;
 }
 
 .container {
   margin: 30px;
+}
+.App-footer {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.App-footer small {
+  font-size: 35px;
+  font-weight: bold;
 }

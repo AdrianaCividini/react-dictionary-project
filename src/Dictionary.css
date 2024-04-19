@@ -26,11 +26,6 @@ section h1 {
 }
 
 .Dictionary .hint {
-  font-size: 20px;
+  font-size: 15px;
   margin-top: 5px;
-}
-
-small {
-  font-size: 40px;
-  background-color: aqua;
 }
