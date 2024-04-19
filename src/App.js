@@ -20,8 +20,9 @@ function App() {
         <footer className="informations">
           <p>
             This Dictionary Project was coded by{" "}
-            <a href="/">Adriana Cividini</a> and is hosted in{" "}
-            <a href="/">GitHub.</a>
+            <a href="https://dricividini.netlify.app/">Adriana Cividini</a> and
+            is hosted in{" "}
+            <a href="https://github.com/AdrianaCividini">GitHub.</a>
           </p>
         </footer>
       </div>

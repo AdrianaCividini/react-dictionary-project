@@ -27,6 +27,7 @@ body {
 .App .informations p {
   color: black;
   font-size: 14px;
+  text-align: center;
 }
 
 .App .informations a {
