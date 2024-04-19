@@ -18,8 +18,11 @@ function App() {
           </main>
         </header>
         <footer className="informations">
-          This Dictionary Project was coded by <a href="/">Adriana Cividini</a>{" "}
-          and is hosted in <a href="/">HitHub.</a>
+          <p>
+            This Dictionary Project was coded by{" "}
+            <a href="/">Adriana Cividini</a> and is hosted in{" "}
+            <a href="/">GitHub.</a>
+          </p>
         </footer>
       </div>
     </div>

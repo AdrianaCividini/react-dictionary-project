@@ -2,8 +2,12 @@
   margin: 20px 0 0;
   padding: 0;
 }
+h2 .word-synonyms {
+  font-size: 15px;
+}
 
 .synonyms li {
   display: inline-block;
   padding-right: 15px;
+  font-size: 18px;
 }

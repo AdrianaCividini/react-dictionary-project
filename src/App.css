@@ -23,3 +23,14 @@ body {
   font-size: 35px;
   font-weight: bold;
 }
+
+.App .informations p {
+  color: black;
+  font-size: 14px;
+}
+
+.App .informations a {
+  background-color: rgb(225, 220, 230);
+  color: blueviolet;
+  font-size: 16px;
+}

@@ -15,12 +15,12 @@ export default function Dictionary(props) {
   }
 
   function handleResponse(response) {
+    console.log(response);
     setResults(response.data);
     setPhotos(response.data.photos);
   }
 
   function handlePictureResponse(response) {
-    console.log(response);
     setPhotos(response.data.photos);
   }
 
@@ -53,6 +53,7 @@ export default function Dictionary(props) {
           <form onSubmit={handleSubmit}>
             <input
               type="search"
+              placeholder="Search for a word"
               onChange={handleKeyWorldChange}
               defaultValue={props.defaultKeyword}
             />
