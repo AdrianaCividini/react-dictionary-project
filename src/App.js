@@ -21,8 +21,12 @@ function App() {
           <p>
             This Dictionary Project was coded by{" "}
             <a href="https://dricividini.netlify.app/">Adriana Cividini</a> and
-            is hosted in{" "}
-            <a href="https://github.com/AdrianaCividini">GitHub.</a>
+            is open sourced on{" "}
+            <a href="https://github.com/AdrianaCividi">GitHub </a>
+            and hosted on{" "}
+            <a href="https://app.netlify.com/sites/graceful-pothos-5d6f54/deploys/66227eb958679c15ce234165">
+              Netlify
+            </a>
           </p>
         </footer>
       </div>
