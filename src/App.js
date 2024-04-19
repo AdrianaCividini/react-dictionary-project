@@ -7,14 +7,15 @@ function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">
-          <img src={logo} className="App-logo img-fluid" alt="logo" />
-
-          <main>
-            <Dictionary />
-          </main>
+          <a href="/">
+            <img src={logo} className="App-logo img-fluid" alt="logo" />
+          </a>
           <footer className="App-footer">
             <small>React Dictionary</small>
           </footer>
+          <main>
+            <Dictionary defaultKeyword="beach" />
+          </main>
         </header>
       </div>
     </div>

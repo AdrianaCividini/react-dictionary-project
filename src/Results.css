@@ -1,0 +1,11 @@
+.results h1 {
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 1.5;
+}
+
+.phonetic {
+  font-size: 25px;
+  opacity: 0.8;
+  font-weight: bold;
+}
